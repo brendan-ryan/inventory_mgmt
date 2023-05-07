@@ -1,0 +1,1 @@
+### Function add_new_item() will push a new item and its details into the item DB at zero quantity. New transactions can now post to the 
